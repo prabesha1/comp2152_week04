@@ -1,7 +1,5 @@
-# Lab Week 04
-
 # Import the random library to use for the dice later
-import random
+import random 
 
 # Hero's Attack Functions
 def hero_attacks(combat_strength, m_health_points):
@@ -83,6 +81,13 @@ loot_options = ["Health Potion", "Poison Potion", "Secret Note", "Leather Boots"
 good_loot_options = ["Health Potion", "Leather Boots"]
 bad_loot_options = ["Poison Potion"]
 
+# Lab04 - Q1
+# Define the Monster Powers
+monster_powers = {
+    "Fire Magic": 2,
+    "Freezing Time": 4,
+    "Super Hearing": 6,
+}
 # Define the number of stars awarded to the Player
 num_stars = 0
 
