@@ -88,7 +88,7 @@ monster_powers = {
     "Freezing Time": 4,
     "Super Hearing": 6,
 }
-# Define the number of stars awarded to the Player
+# Define the number of stars awarded to the Players
 num_stars = 0
 
 # Use a While Loop to get valid input for Hero and Monster's Combat Strength
